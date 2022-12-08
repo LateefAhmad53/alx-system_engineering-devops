@@ -1,0 +1,1 @@
+shell basucs assignment
