@@ -1,1 +1,1 @@
-shell basucs assignment
+shell basics
